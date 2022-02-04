@@ -2,15 +2,6 @@
 
 Le robot suiveur de couleur
 
-
-FORMATION DIPFABLAB AVANCE 02/2019
-
-MEMBRES: 
-  Sarah
-  Yasmina
-  Véronique
-  Justin
-
 */
    
 #include <SPI.h>  
